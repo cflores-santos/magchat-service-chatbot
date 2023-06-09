@@ -9,10 +9,6 @@ BOT_ID = os.getenv('BOT_ID', '')
 MICROSOFT_APP_ID = os.getenv('MICROSOFT_APP_ID', '')
 MICROSOFT_APP_PASSWORD = os.getenv('MICROSOFT_APP_PASSWORD', '')
 
-# QnA Maker Credentials
-QNA_ENDPOINT_KEY = os.getenv('QNA_ENDPOINT_KEY', '')
-QNA_KNOWLEDGEBASE_ID = os.getenv('QNA_KNOWLEDGEBASE_ID', '')
-
 # Azure Cognitive Services Credentials
 COGNITIVE_SERVICE_KEY = os.getenv('COGNITIVE_SERVICE_KEY', '')
 LUIS_APP_ID = os.getenv('LUIS_APP_ID', '')
