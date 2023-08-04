@@ -1,2 +1,0 @@
-#In some cases, you might have separate service files to encapsulate the integration with external services or APIs.
-#For example, if you're using QnA Maker, you could have a services.py file that contains functions for querying the QnA Maker service and retrieving answers.
