@@ -1,0 +1,231 @@
+{
+    "help-topics": [
+        {
+            "topic": "General Information",
+            "faqs": [
+                {
+                    "question": "What is your address?",
+                    "answer": "The MagMutual headquarters is located at: 3535 Piedmont Rd. NE, Suite 14-1000 Atlanta, GA 30305"
+                }
+            ]
+        },
+        {
+            "topic": "Policy Services",
+            "faqs": [
+                {
+                    "question": "How do I obtain a copy of my insurance certificate?",
+                    "answer": "Contact your agent or account rep, or call us at 1-800-282-4882 for further assistance."
+                },
+                {
+                    "question": "How do I let you know that a physician has left our practice?",
+                    "answer": "Please contact your agent to obtain a physician departure form. Once completed please return the form. If you are not sure who your agent is, please call us at 1-800-282-4882."
+                },
+                {
+                    "question": "How do I make changes to my policy?",
+                    "answer": "Please contact your agent. If you don’t have your agent’s contact information available, please call 800-282-4882, and we can direct you."
+                },
+                {
+                    "question": "How do I pay my bill online?",
+                    "answer": "Click on Pay My Bill in the footer of our website under 'Account', or access the page from your account profile. There, you can create an E-Bill Express account using your policy number and billing ZIP code. PolicyOwners with PolicyView can access E-Bill Express through your PolicyView billing tab, under Make a Payment."
+                },
+                {
+                    "question": "I have a question about my bill, who do I contact?",
+                    "answer": "Please call 800-282-4882 and ask for the accounting department."
+                },
+                {
+                    "question": "A covered physician is retiring and needs tail coverage. What do I do?",
+                    "answer": "MagMutual-insured physicians who retire from the practice of medicine are entitled to a free extended reporting endorsement (ERE, also known as tail coverage). Please contact your agent to let them know that the physician is retiring. Upon notification, we will send you a complete retirement package, including a retirement form, Form W-9, extended reporting endorsement, Owners Circle FAQ and volunteer professional liability application."
+                },
+                {
+                    "question": "Where can I see if you’ve received my payment?",
+                    "answer": "You can see your payment status on E-Bill Express. Or, call 800-282-4882 and ask for the accounting department. They will be happy to check your payment status for you."
+                },
+                {
+                    "question": "I have questions regarding the Employment Practices Hotline. Where can I find answers?",
+                    "answer": "Please refer to our management liability toolkit for more information on this. Please note this toolkit and hotline are only available to our management liability policyholders. For more information about our management liability product click here."
+                }
+            ]
+        },
+        {
+            "topic": "Claims Services",
+            "faqs": [
+                {
+                    "question": "When should I notify MagMutual of an incident or claim?",
+                    "answer": "It is essential that you notify MagMutual immediately if any incident occurs that may lead to action against you. The more familiar you are with the following information and guidelines, the better able we will be to provide you with expert claim handling."
+                },
+                {
+                    "question": "How do I report an incident or claim?",
+                    "answer": "Your incident or claim submission must be in writing. Please complete this Incident Report Form to provide basic information and a summary of the facts of the event. Send a completed incident form and all relevant medical records, correspondence and legal documents to incidents@magmutual.com. For questions, call 800-586-6891 to speak with a member of our claims team. "
+                },
+                {
+                    "question": "What type of incidents lead to claims and should be reported?",
+                    "answer": "Report any incident related to diagnosis or treatment that could be construed as a contributory factor to such injuries and impairment as: death, diminished life expectancy, birth injuries, loss of an extremity, injury to or impairment of a body organ, loss or impairment of any of the five senses, and severe disfigurement. If you have a question about what type of incident to report, call 800-586-6891 to speak with a member of our claims team."
+                },
+                {
+                    "question": "What legal notifications, actions or documents should I report to MagMutual?",
+                    "answer": "Here’s a list of documents that should be reported to MagMutual: Demand for money, Verbal or written threat of legal action, Formal paper naming you as a defendant or witness, Attorney’s letter of intent or 90-day notice, Request for arbitration, Request for deposition or interview, Subpoena, summons, complaint, notice of a lawsuit, or small claims court notice"
+                },
+                {
+                    "question": "How do I report a Workers' Compensation Claim?",
+                    "answer": "You can submit a Workers’ Compensation claim through the MyMagMutual portal. To access the portal, log in to your website account and visit My Account. Here you will see a link to enter MyMagMutual in the Portals menu on the left side of the page. Information for claims reported this way will automatically be added to the appropriate state form and submitted. For questions, call 800-586-6891."
+                },
+                {
+                    "question": "What happens after I submit my incident or claim?",
+                    "answer": "In the first 24 hours after you report an incident or submit a claim, we assign a file number, review your policy and confirm contact information. We also will respond to you with an acknowledgement letter. Depending on the facts and factors of the event, a claims specialist may need more information from you before determining the strategy that will be used for future handling."
+                },
+                {
+                    "question": "How should I handle medical information related to the reported claim?",
+                    "answer": "Do not add to, delete from or alter a medical record.  Place the medical record in a safe place."
+                },
+                {
+                    "question": "What else should I do after reporting a claim?",
+                    "answer": "After making a report to MagMutual, keep copies of your correspondence with your claims analyst and defense counsel in a safe place – not in the patient’s chart. Do not discuss the specifics of the event with anyone other than your claims specialist or defense attorney. Do not make contact with anyone associated with the case except your claims specialist or defense attorney."
+                },
+                {
+                    "question": "When will I hear updates about my claim?",
+                    "answer": "You can expect to receive an update approximately every 90 business days and when significant developments occur. "
+                },
+                {
+                    "question": "Still have questions about the claims handling process?",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "topic": "Coverage and Sales",
+            "faqs": [
+                {
+                    "question": "I received an online quote for coverage. Can I talk to someone about it before I purchase it?",
+                    "answer": "Yes. Please call 800-282-4882 and an agent will be happy to answer any questions you may have."
+                },
+                {
+                    "question": "Do I need to have a MagMutual.com account to get a quote online?",
+                    "answer": "No. You will need an account to bind coverage or save a quote, but you can receive an initial quote without one."
+                },
+                {
+                    "question": "I completed the online form to get a quote. How long does the process take?",
+                    "answer": "It will take you about 10 minutes to complete the form, and you will receive a quote immediately. If your responses fall within our standard underwriting guidelines, coverage can be bound within minutes. If additional underwriting information is required, you will be contacted by a representative within one to two business days."
+                },
+                {
+                    "question": "How do I know if my policy is claims-made or occurrence-based?",
+                    "answer": "You can find that information on the Declarations Page of your policy."
+                },
+                {
+                    "question": "What is the difference between claims-made and occurrence-based policies?",
+                    "answer": "Claims-made policies cover only those claims that are made or first reported during the policy period. Any claims made or reported outside of the policy period are not covered. Occurrence policies provide coverage for all incidents or events occurring during the policy period, regardless of when the claim is filed or if the physician involved still has the policy."
+                },
+                {
+                    "question": "My state is not listed on the online quote form. Can I still get coverage from MagMutual?",
+                    "answer": "Please call 800-282-4882 and one of our agents can assist you."
+                }
+            ]
+        },
+        {
+            "topic": "Risk Management",
+            "faqs": [
+                {
+                    "question": "Does MagMutual offer legal consultation on the practice, business and regulation of medicine?",
+                    "answer": "All PolicyOwners have access to a team of physician, patient safety, cyber and workers’ compensation consultants and in-house attorneys specializing in regulatory, practice, employment and business matters. Please call us at 1-800-282-4882 and select 5, or email questions@magmutual.com."
+                },
+                {
+                    "question": "How can I speak to a risk consultant?",
+                    "answer": "We have an team of highly experienced risk management consultants who are available to assist policyholders with their risk management/patient safety questions. To reach a member of our on-call risk management team, policyholders can call 800-282-4882 and select 5 or email us at questions@magmutual.com."
+                },
+                {
+                    "question": "How do I re-verify my UpToDate subscription?",
+                    "answer": "Log in to your MagMutual.com account and go to your account page. There you will be able to access all of the outside resources we offer to PolicyOwners, including UpToDate. Clicking the UpToDate button will provide re-verification. Please contact technical support or call us at 1-800-282-4882 if you are still having issues."
+                },
+                {
+                    "question": "How do I create an UpToDate account?",
+                    "answer": "PolicyOwners can log in to your MagMutual.com account and go to your account page. There you will be able to access all of the outside resources we offer to PolicyOwners, including UpToDate. Please contact technical support or call us at 1-800-282-4882 if you are still having issues."
+                },
+                {
+                    "question": "How do I access the Cyber Center?",
+                    "answer": "All PolicyOwners have access to the Cyber Center. These instructions describe how to access the Cyber Center."
+                }
+            ]
+        },
+        {
+            "topic": "Learning, CMEs, and Discounts",
+            "faqs": [
+                {
+                    "question": "How do I access Learning Center content?",
+                    "answer": "To access all Learning Center content, you need to make sure you're logged into your MagMutual.com account, as some materials are available only to PolicyOwners. For further support in accessing Learning Center content, check out the videos below. Learning Center Overview, Register Your Account, Learning Center Content by Subject, Learning Center Content by Type, UpToDate Overview, Password Reset. If you’re a PolicyOwner and are logged in and still can’t access the content, please call us at 800-282-4882 and select 6 or contact technical support, and we’ll be happy to help you."
+                },
+                {
+                    "question": "Does MagMutual get notified automatically when I complete the course?",
+                    "answer": "In the case of discount-eligible courses, yes, MagMutual is notified. There is no need to let us know you’ve completed a course."
+                },
+                {
+                    "question": "Where can I find evidence of my course completions?",
+                    "answer": "You’ll find a list of all the courses you’re currently enrolled in and all the courses you’ve completed on your MagMutual account page under the learning tab."
+                },
+                {
+                    "question": "What should I do after completing a discount-eligible CME course?",
+                    "answer": "Once you’ve completed a discount-eligible course, navigate back to the learning tab on your MagMutual account page, where you can find and print your CME certificate."
+                },
+                {
+                    "question": "How do I print my CME certificate?",
+                    "answer": "Your CME certificate can be found on your account profile page. Log in to your MagMutual.com account. Click on My Profile. Click the Learning tab and your CME certificates can be found there."
+                },
+                {
+                    "question": "If I have to exit a course before completing it, will I start where I left off upon reentry?",
+                    "answer": "Yes. We understand that you may not have the time to complete the course in a single sitting. Our course platform allows you to exit the course and pick up where you left off as often as needed."
+                },
+                {
+                    "question": "I am an administrator. Where can I find evidence of my team's course completions?",
+                    "answer": "You’ll find a list of all the courses your team is currently enrolled in and all the courses they've completed on your MagMutual account page under the team learning tab. The table labeled 'Certificate Courses' is where you'll be able to access and download the CME certificates for all completed courses. If you don't have access to the [team] tab, please contact the Service Team at 1-800-282-4882 and select 6 or email service@magmutual.com. "
+                },
+                {
+                    "question": "How do I access the discount eligible courses?",
+                    "answer": "Click Learning in the site navigation to go to the Learning Center. Go to the filtering system on the left-hand side of the Learning Center page. Select the Discount Eligible filter. The content will update automatically to display only the courses and assessment that offer a discount. Choose any of the courses that interest you. Upon completion, we will be notified that you've earned a discount."
+                },
+                {
+                    "question": "How do I qualify for my discount?",
+                    "answer": "PolicyOwners can qualify for a discount by completing discount-eligible course(s) in the Learning Center. Those who previously completed a course will not have the option to complete it again. Full requirements vary by state; check with your agent for details."
+                },
+                {
+                    "question": "I completed the discount-eligible courses. When will my discount be applied?",
+                    "answer": "Your discount will be applied at your next renewal period. If you completed the courses more than 90 days after renewal, the discount will be applied at the next renewal."
+                },
+                {
+                    "question": "What is the deadline for completing the discount-eligible courses?",
+                    "answer": "Course(s) need to be completed within 90 days of the renewal effective date."
+                }
+            ]
+        },
+        {
+            "topic": "Account and Portals",
+            "faqs": [
+                {
+                    "question": "How do I create a MagMutual.com account?",
+                    "answer": "Click the Register link in the navigation bar at the top of the page. Fill out the registration form. If you are a policyholder please include your policy number. Your Policy Number must be at least seven digits. The two suffix digits at the end of your policy number are not required to be entered. Example: 1234567-xx. You may enter your medical license number, if applicable, but it is not needed to create a policyholder account. If you are not a policyholder you may create a guest account with your name and email address. Please contact technical support if you are having issues."
+                },
+                {
+                    "question": "What do I need to create a website account?",
+                    "answer": "To create a customer account, you will need to provide your name, email address and policy number. You may also enter a medical license, if applicable, but it is not required. To create a guest account, you need to provide your name and email address."
+                },
+                {
+                    "question": "How do I use MyMagMutual?",
+                    "answer": "MyMagMutual is our new customer portal that replaces PolicyView. Policy administrators can manage policies and accounts, request policy and risk support, ask questions and pay bills. All policyholders have access to MyMagMutual to request policy and risk support. To learn more about using your MyMagMutual account, check out these informational videos: Getting Started, Billing Page, Support Page, Documents Page, Policies Page, Owners Circle, Communication Preferences"
+                },
+                {
+                    "question": "I’m getting a message that says my policy number is not recognized. What should I do?",
+                    "answer": "Please contact your agent or call 800-282-4882 for assistance."
+                },
+                {
+                    "question": "What is a Guest Account?",
+                    "answer": "A Guest Account gives users access to some additional site content, including claims lessons, toolkits and exclusive articles, as well as the option to subscribe to our quarterly newsletter, without needing to be a PolicyOwner. Note: if you are a PolicyOwner, we recommend you create a standard account in order to have full access to all of the valuable resources on our site."
+                },
+                {
+                    "question": "Do I have to be a policyholder to access the Learning Center content?",
+                    "answer": "No. While some of the Learning Center content, including CME credit courses, is only available to MagMutual PolicyOwners, there are articles, videos and additional content we make available to everyone."
+                },
+                {
+                    "question": "I am not receiving a reset password email when I request one. How do I reset my password?",
+                    "answer": "First, check your SPAM folder. Depending on your email filters, the reset password email may have end up there. If you still do not see a reset your password email please contact technical support."
+                }
+            ]
+        }
+    ]
+}
